@@ -1,6 +1,6 @@
 # File and Folder Management Script
 
-This Bash script can automate file and folder management tasks such as copying, moving, deleting, renaming, creating backups, and compressing files into archives.
+This bash script can automate file and folder management tasks such as copying, moving, deleting, renaming, creating backups, and compressing files into archives. Use at your own risk!
 
 ## Usage
 
